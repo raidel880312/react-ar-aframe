@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "911e5c826d56cecd74e042b822535f36",
+    "revision": "b53a4d67125211db9466456c491441b3",
     "url": "/react-ar-aframe/index.html"
   },
   {

@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/arjs-gestures/react-ar-aframe/public/static/css/main.b04462b0.chunk.css",
-    "main.js": "/arjs-gestures/react-ar-aframe/public/static/js/main.f4bf498e.chunk.js",
-    "main.js.map": "/arjs-gestures/react-ar-aframe/public/static/js/main.f4bf498e.chunk.js.map",
-    "runtime-main.js": "/arjs-gestures/react-ar-aframe/public/static/js/runtime-main.75a19f8e.js",
-    "runtime-main.js.map": "/arjs-gestures/react-ar-aframe/public/static/js/runtime-main.75a19f8e.js.map",
-    "static/js/2.e29543af.chunk.js": "/arjs-gestures/react-ar-aframe/public/static/js/2.e29543af.chunk.js",
-    "static/js/2.e29543af.chunk.js.map": "/arjs-gestures/react-ar-aframe/public/static/js/2.e29543af.chunk.js.map",
-    "index.html": "/arjs-gestures/react-ar-aframe/public/index.html",
-    "precache-manifest.eea2303b7f865ecbb062ad762720f021.js": "/arjs-gestures/react-ar-aframe/public/precache-manifest.eea2303b7f865ecbb062ad762720f021.js",
-    "service-worker.js": "/arjs-gestures/react-ar-aframe/public/service-worker.js",
-    "static/css/main.b04462b0.chunk.css.map": "/arjs-gestures/react-ar-aframe/public/static/css/main.b04462b0.chunk.css.map",
-    "static/js/2.e29543af.chunk.js.LICENSE.txt": "/arjs-gestures/react-ar-aframe/public/static/js/2.e29543af.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/arjs-gestures/react-ar-aframe/public/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-ar-aframe/static/css/main.b04462b0.chunk.css",
+    "main.js": "/react-ar-aframe/static/js/main.179257d9.chunk.js",
+    "main.js.map": "/react-ar-aframe/static/js/main.179257d9.chunk.js.map",
+    "runtime-main.js": "/react-ar-aframe/static/js/runtime-main.8032eb4f.js",
+    "runtime-main.js.map": "/react-ar-aframe/static/js/runtime-main.8032eb4f.js.map",
+    "static/js/2.e29543af.chunk.js": "/react-ar-aframe/static/js/2.e29543af.chunk.js",
+    "static/js/2.e29543af.chunk.js.map": "/react-ar-aframe/static/js/2.e29543af.chunk.js.map",
+    "index.html": "/react-ar-aframe/index.html",
+    "precache-manifest.7eac5bab90dc2405881f782efe09af35.js": "/react-ar-aframe/precache-manifest.7eac5bab90dc2405881f782efe09af35.js",
+    "service-worker.js": "/react-ar-aframe/service-worker.js",
+    "static/css/main.b04462b0.chunk.css.map": "/react-ar-aframe/static/css/main.b04462b0.chunk.css.map",
+    "static/js/2.e29543af.chunk.js.LICENSE.txt": "/react-ar-aframe/static/js/2.e29543af.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-ar-aframe/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.75a19f8e.js",
+    "static/js/runtime-main.8032eb4f.js",
     "static/js/2.e29543af.chunk.js",
     "static/css/main.b04462b0.chunk.css",
-    "static/js/main.f4bf498e.chunk.js"
+    "static/js/main.179257d9.chunk.js"
   ]
 }
